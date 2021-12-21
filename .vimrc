@@ -1,4 +1,5 @@
 filetype plugin indent on
+syntax on
 
 set ttyfast
 
@@ -11,6 +12,7 @@ set incsearch
 set hlsearch
 
 " Basic vim settings
+set cursorline
 set hidden
 set visualbell
 set number
