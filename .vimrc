@@ -17,6 +17,7 @@ set number
 set nobackup
 set noswapfile
 set noshowmode
+set showmatch
 
 " Set the terminal's title
 set title
