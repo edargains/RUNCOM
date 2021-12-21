@@ -30,6 +30,7 @@ set expandtab
 
 " Set to show invisibles (tabs & trailing spaces) & their highlight color
 " set list listchars=tab:»\ ,trail:·
+let python_highlight_all = 1
 
 " Configure spell checking
 nmap <silent> <leader>p :set spell!<CR>
